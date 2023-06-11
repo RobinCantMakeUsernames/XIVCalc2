@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XIVCalc2", "XIVCalc2\XIVCalc2.csproj", "{71F90503-CD35-447D-8DDD-41F71274A7BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71F90503-CD35-447D-8DDD-41F71274A7BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71F90503-CD35-447D-8DDD-41F71274A7BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71F90503-CD35-447D-8DDD-41F71274A7BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71F90503-CD35-447D-8DDD-41F71274A7BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7519392-2DD4-4CBA-93EF-19D41ACEE45F}
+	EndGlobalSection
+EndGlobal
